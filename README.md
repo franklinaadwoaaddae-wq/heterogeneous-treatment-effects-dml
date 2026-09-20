@@ -59,11 +59,16 @@ Users with higher prior engagement experienced larger benefits from the product 
 
 ## Repository Structure
 
-```text
 heterogeneous-treatment-effects-dml/
 ├── R/
 │   ├── README.md
 │   └── heterogeneous-treatment-effects-dml.R
+├── figures/
+│   ├── README.md
+│   ├── figure-1-treatment-effect-distribution.png
+│   ├── figure-2-treatment-effects-prior-engagement.png
+│   ├── figure-3-average-effect-by-engagement-group.png
+│   └── figure-4-true-vs-estimated-effects.png
 ├── paper/
 │   ├── README.md
 │   └── heterogeneous-treatment-effects-dml.pdf
